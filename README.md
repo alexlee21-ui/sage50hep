@@ -1,4 +1,4 @@
-Sage 50 Help
+<h2>Sage 50 Help</h2>
 
 Welcome to Sage 50 Help, a trusted online resource designed to assist businesses, accountants, and bookkeepers with Sage 50 accounting software support and troubleshooting. Our goal is to provide practical solutions for common and complex Sage 50 issues so users can keep their accounting operations running smoothly without unnecessary downtime.
 
